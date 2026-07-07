@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build an RSS feed of Journal of Political Economy articles, combining:
+Build an RSS feed of Comparative Political Studies articles, combining:
   1. "Ahead of Print" articles (DOI registered, no volume/issue assigned)
   2. Articles in the latest published issue
 
@@ -13,10 +13,10 @@ from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
 
-ISSN = "1537-534X"  # JPE online ISSN
-JOURNAL_NAME = "Journal of Political Economy"
+ISSN = "1552-3829"  # CPS online ISSN
+JOURNAL_NAME = "Comparative Political Studies"
 FEED_TITLE = f"{JOURNAL_NAME}"
-FEED_LINK = "https://www.journals.uchicago.edu/journal/jpe"
+FEED_LINK = "https://journals.sagepub.com/home/cps"
 OUTPUT = "feed.xml"
 
 BASE = f"https://api.crossref.org/journals/{ISSN}/works"
