@@ -1,8 +1,8 @@
-# JPE Ahead-of-Print RSS Feed
+# CPS Ahead-of-Print RSS Feed
 
-A self-hosted RSS feed of *Journal of Political Economy* articles posted
+A self-hosted RSS feed of *Comparative Political Studies* articles posted
 online ahead of print. It queries the CrossRef API (which registers a DOI
-the moment JPE posts an article online) and keeps only records not yet
+the moment CPS posts an article online) and keeps only records not yet
 assigned to a volume/issue — i.e., the ahead-of-print list.
 
 ## Setup (about 5 minutes)
