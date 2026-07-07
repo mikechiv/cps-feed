@@ -1,4 +1,4 @@
-name: Update JPE ahead-of-print feed
+name: Update CPS ahead-of-print feed
 
 on:
   schedule:
