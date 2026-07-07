@@ -20,7 +20,7 @@ FEED_LINK = "https://journals.sagepub.com/home/cps"
 OUTPUT = "feed.xml"
 
 BASE = f"https://api.crossref.org/journals/{ISSN}/works"
-UA = {"User-Agent": "jpe-feed/2.0 (mailto:you@example.com)"}
+UA = {"User-Agent": "cps-feed/2.0 (mailto:you@example.com)"}
 
 
 def fetch(url):
@@ -131,7 +131,7 @@ def main():
         "<channel>",
         f"<title>{escape(FEED_TITLE)}</title>",
         f"<link>{escape(FEED_LINK)}</link>",
-        "<description>JPE ahead-of-print articles and the latest "
+        "<description>CPS ahead-of-print articles and the latest "
         "published issue (via CrossRef)</description>",
         f"<lastBuildDate>{now}</lastBuildDate>",
         *entries,
