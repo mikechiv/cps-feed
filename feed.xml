@@ -4,7 +4,21 @@
 <title>Comparative Political Studies</title>
 <link>https://journals.sagepub.com/home/cps</link>
 <description>JPE ahead-of-print articles and the latest published issue (via CrossRef)</description>
-<lastBuildDate>Wed, 23 Sep 2026 20:46:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 01:58:57 +0000</lastBuildDate>
+<item>
+<title>Listening to Leaders: Illiberal Speech as a Symptom of Democratic Decline</title>
+<link>https://doi.org/10.1177/00104140261487983</link>
+<guid isPermaLink="false">10.1177/00104140261487983</guid>
+<category>Ahead of Print</category>
+<pubDate>Wed, 23 Sep 2026 22:10:46 +0000</pubDate>
+<description>[Ahead of Print]&lt;br/&gt;&lt;br/&gt;Authors: Seraphine F. Maerz, Dean Schafer, Carsten Q. Schneider&lt;br/&gt;&lt;br/&gt;&amp;lt;jats:p&amp;gt;
+                    Political leaders signal their commitment to democratic or authoritarian values through public speeches. Such signals can constitute a breach of democratic norms and indicate intent to undermine democratic institutions. By listening to what leaders say, we are able to capture a hitherto overlooked sign of a crisis of democracy. We develop indicators for illiberal speech that capture the language by leading representatives of political regimes across the globe. Utilizing a machine learning approach, we fine-tune
+                    &amp;lt;jats:italic toggle="yes"&amp;gt;DeBERTa&amp;lt;/jats:italic&amp;gt;
+                    models to score 27,683 speeches by 452 political leaders representing over 400 administrations in 123 countries between 1989 and 2024, yielding over 400,000 semantically coherent paragraphs. The scores place leaders on an illiberal-liberal scale and have been validated with openai’s
+                    &amp;lt;jats:italic toggle="yes"&amp;gt;gpt-5.2&amp;lt;/jats:italic&amp;gt;
+                    and human coders. We find that illiberal public discourse is part of the multi-dimensional symptom of democratic decline. Our analysis opens up a new research agenda on the role of public rhetoric in the study of political regimes and their transformation.
+                  &amp;lt;/jats:p&amp;gt;</description>
+</item>
 <item>
 <title>Inhibitory Institutions: The Tradeoffs of Public Goods Quantity and Quality</title>
 <link>https://doi.org/10.1177/00104140261487977</link>
